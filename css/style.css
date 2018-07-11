@@ -61,7 +61,7 @@ nav {
   width: 100%;
 }
 
-.right:hover {
+a:hover{
   background-color: pink;
 }
 
